@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(135deg, #74ebd5, #9face6);
+  min-height: 100vh;
+}
+
+.carousel {
+  max-width: 600px;
+  margin: auto;
+}
+
+.carousel-item img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 15px;
+}
